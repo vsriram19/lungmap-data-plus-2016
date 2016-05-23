@@ -2,4 +2,4 @@
 _*
 .ipynb_checkpoints
 .DS_Store
-data/*
+data/
