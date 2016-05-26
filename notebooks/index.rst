@@ -12,6 +12,9 @@ Contents:
    :maxdepth: 2
 
   Learning Resources.ipynb
+  00_PythonChallenge-Solutions
+  01_RetrievingImagesFromS3
+  02_BasicImageManipulation
 
 Indices and tables
 ==================
